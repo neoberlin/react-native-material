@@ -14,14 +14,14 @@ Known issues solved:
 
 ```shell
 npm remove @react-native-material/core
-npm install @react-native-material/core@neoberlin/react-native-material
+npm install --save @react-native-material/core@github:neoberlin/react-native-material
 ```
 
 Or (If you're using yarn):
 
 ```shell
 yarn remove @react-native-material/core
-yarn add @react-native-material/core@neoberlin/react-native-material
+yarn add @react-native-material/core@github:neoberlin/react-native-material
 ```
 
 ## Documentation

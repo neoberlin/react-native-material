@@ -14,21 +14,21 @@ Known issues solved:
 
 ```shell
 npm remove @react-native-material/core
-npm install --save @react-native-material/core@github:neoberlin/react-native-material
+npm install --save github:neoberlin/react-native-material
 ```
 
 Or (If you're using yarn):
 
 ```shell
 yarn remove @react-native-material/core
-yarn add @react-native-material/core@github:neoberlin/react-native-material
+yarn add github:neoberlin/react-native-material
 ```
 
 ## Documentation
 
 Please check documentation by original project at [GitHub](https://github.com/yamankatby/react-native-material)
 
-## 📝 License
+## License
 
 This library is licensed under the MIT License - see
-the [LICENSE](https://github.com/yamankatby/react-native-material/blob/main/LICENSE) file for details.
+the [License](https://github.com/yamankatby/react-native-material/blob/main/LICENSE) file for details.

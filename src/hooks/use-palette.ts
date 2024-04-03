@@ -1,4 +1,4 @@
-import { useTheme } from 'rn-material';
+import { useTheme } from 'react-native-material';
 
 export const usePalette = () => {
   return useTheme().palette;
